@@ -2,9 +2,33 @@
   icon: linecons-star
   links:
     - title: 洛谷
-      logo: /assets/images/logos/luogu.webp
+      logo: /assets/images/logos/luogu.png
       url: https://www.luogu.com.cn/
-      description: 为广大算法竞赛选手、程序设计爱好者以及院校企业机构提供算法题库、社区、训练工具、在线教育为一体的解决方案。
+      description: 洛谷致力于为编程爱好者提供清爽、快捷的编程体验。它不仅仅是一个在线测题系统，更拥有强大的社区、在线学习功能。同时，许多教程内容都是由五湖四海的用户提供的，保证了内容的广泛性。无论是初学 OI 的蒟蒻，还是久经沙场的神犇，均可从洛谷获益，也可以帮助他人，共同进步。
+    - title: Libre OJ
+      logo: /assets/images/logos/loj.png
+      url: https://loj.ac/
+      description: LOJ，一个自由的OJ
+    - title: Universal OJ
+      logo: /assets/images/logos/uoj.png
+      url: https://uoj.ac/
+      description: 
+    - title: Leetcode（中国站请加上-cn）
+      logo: /assets/images/logos/leetcode.png
+      url: https://leetcode.com/
+      description: 力扣源自美国硅谷，为全球程序员提供了专业的 IT 技术职业化提升平台，有效帮助程序员实现快速进步和长期成长。
+    - title: Virtual Judge
+      logo: /assets/images/logos/vjudge.png
+      url: https://vjudge.net/
+      description: Virtual Judge is not a real online judge. It can grab problems from other regular online judges and simulate submissions to other online judges. It aims to enable holding contests when you don't have the test data.
+    - title: Codeforces
+      logo: /assets/images/logos/cf.png
+      url: https://codeforces.com/
+      description: Codeforces is a project joining people interested in and taking part in programming contests.
+    - title: Codeforces镜像站
+      logo: /assets/images/logos/cf(mirror).png
+      url: https://codeforces.ml/
+      description: An unofficial mirror site of Codeforces, accelerated for Chinese users
 # - name: 常用推荐
 #   icon: linecons-star
 #   links: 
