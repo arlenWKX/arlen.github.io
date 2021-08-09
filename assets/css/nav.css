@@ -1,5 +1,5 @@
 .box2 {
-    height: 111px;
+    height: 130px;
     cursor: pointer;
     border-radius: 4px;
     padding: 0px 30px 0px 30px;
@@ -29,7 +29,7 @@
 .xe-comment-entry img {
     float: left;
     display: block;
-    margin-right: 12px;
+    margin-right: 8px;
 }
 
 .xe-comment p {
