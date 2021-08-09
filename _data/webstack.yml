@@ -65,6 +65,10 @@
       logo: /assets/images/logos/labuladong.jpg
       url: https://github.com/labuladong/fucking-algorithm
       description: 刷算法全靠套路，认准 labuladong 就够了！
+    - title: 算法竞赛课件分享
+      logo: /assets/images/logos/hzwer.jpg
+      url: https://github.com/hzwer/shareOI
+      description: 收集来自互联网上的算法竞赛学习课件
 - name: 开源 & 仓库
   icon: linecons-lightbulb
   links: 
