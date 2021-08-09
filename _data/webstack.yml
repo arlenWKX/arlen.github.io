@@ -46,7 +46,7 @@
       url: http://www.jianshu.com/
       description: 创作者的乐园（里面也有很多编程博客）
     - title: 知乎
-      logo: /assets/images/logos/zhihu.com
+      logo: /assets/images/logos/zhihu.png
       url: https://www.zhihu.com/
       description: 中文互联网高质量的问答社区和创作者聚集的原创内容平台
     - title: 哔哩哔哩
