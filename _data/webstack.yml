@@ -29,108 +29,42 @@
       logo: /assets/images/logos/cf(mirror).png
       url: https://codeforces.ml/
       description: Codeforces国内镜像站
-# - name: 常用推荐
-#   icon: linecons-star
-#   links: 
-#     - title: Dribbble
-#       logo: /assets/images/logos/dribbble.png
-#       url: https://dribbble.com/
-#       description: 全球UI设计师作品分享平台。
-#     - title: Behance
-#       logo: /assets/images/logos/behance.png
-#       url: https://behance.net/
-#       description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-#     - title: UI中国
-#       logo: /assets/images/logos/uicn.png
-#       url: https://www.ui.cn/
-#       description: 图形交互与界面设计交流、作品展示、学习平台。
-#     - title: 站酷
-#       logo: /assets/images/logos/zcool.png
-#       url: https://www.zcool.com.cn/
-#       description: 中国人气设计师互动平台
-#     - title: Pinterest
-#       logo: /assets/images/logos/pinterest.png
-#       url: https://www.pinterest.com/
-#       description: 全球美图收藏采集站
-#     - title: 花瓣
-#       logo: /assets/images/logos/huaban.png
-#       url: https://huaban.com/
-#       description: 收集灵感,保存有用的素材
-#     - title: Medium
-#       logo: /assets/images/logos/medium.png
-#       url: https://medium.com/
-#       description: 高质量设计文章
-#     - title: 优设
-#       logo: /assets/images/logos/uisdc.png
-#       url: https://www.uisdc.com/
-#       description: 设计师交流学习平台
-#     - title: Producthunt
-#       logo: /assets/images/logos/producthunt.png
-#       url: https://www.producthunt.com/
-#       description: 发现新鲜有趣的产品
-#     - title: Youtube
-#       logo: /assets/images/logos/youtube.png
-#       url: https://www.youtube.com/
-#       description: 全球最大的学习分享平台
-#     - title: Google
-#       logo: /assets/images/logos/google.png
-#       url: https://www.google.com/
-#       description: 全球最大的UI学习分享平台
-    
 
-# - name: 社区资讯
-#   icon: linecons-doc
-#   links: 
-#     - title: 雷锋网
-#       logo: /assets/images/logos/leiphone.png
-#       url: https://www.leiphone.com/
-#       description: 人工智能和智能硬件领域的互联网科技媒体
-#     - title: 36kr
-#       logo: /assets/images/logos/36kr.png
-#       url: https://36kr.com/
-#       description: 创业资讯、科技新闻
-#     - title: 数英网
-#       logo: /assets/images/logos/digitaling.png
-#       url: https://www.digitaling.com/
-#       description: 数字媒体及职业招聘网站
-#     - title: 猎云网
-#       logo: /assets/images/logos/lieyunwang.png
-#       url: https://www.lieyunwang.com/
-#       description: 互联网创业项目推荐和创业创新资讯
-#     - title: 人人都是产品经理
-#       logo: /assets/images/logos/woshipm.png
-#       url: http://www.woshipm.com/
-#       description: 产品经理、产品爱好者学习交流平台
-#     - title: 互联网早读课
-#       logo: /assets/images/logos/zaodula.png
-#       url: https://www.zaodula.com/
-#       description: 互联网行业深度阅读与学习平台
-#     - title: 产品壹佰 
-#       logo: /assets/images/logos/chanpin100.png
-#       url: http://www.chanpin100.com/
-#       description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-#     - title: PMCAFF
-#       logo: /assets/images/logos/pmcaff.png
-#       url: http://www.pmcaff.com/
-#       description: 中国第一产品经理人气组织，专注于研究互联网产品
-#     - title: 爱运营
-#       logo: /assets/images/logos/iyunying.png
-#       url: http://www.iyunying.org/
-#       description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-#     - title: 鸟哥笔记
-#       logo: /assets/images/logos/niaogebiji.png
-#       url: http://www.niaogebiji.com/
-#       description: 移动互联网第一干货平台
-#     - title: 古田路9号
-#       logo: /assets/images/logos/gtn9.png
-#       url: http://www.gtn9.com/
-#       description: 国内专业品牌创意平台
-#     - title: 优阁网
-#       logo: /assets/images/logos/uigreat.png
-#       url: http://www.uigreat.com/
-#       description: UI设计师学习交流社区
-    
-
+- name: Blog & 资源
+  icon: linecons-doc
+  links: 
+    - title: CSDN
+      logo: /assets/images/logos/csdn.png
+      url: http://www.csdn.net/
+      description: 技术人交流和成长的家园
+    - title: 博客园
+      logo: /assets/images/logos/cnblogs.png
+      url: https://www.cnblogs.com/
+      description: 一个面向开发者的知识分享社区
+    - title: 简书
+      logo: /assets/images/logos/jianshu.png
+      url: http://www.jianshu.com/
+      description: 创作者的乐园（里面也有很多编程博客）
+    - title: 知乎
+      logo: /assets/images/logos/zhihu.com
+      url: https://www.zhihu.com/
+      description: 中文互联网高质量的问答社区和创作者聚集的原创内容平台
+    - title: 哔哩哔哩
+      logo: /assets/images/logos/bilibili.png
+      url: http://www.bilibili.com/
+      description: <del>中国年轻世代高度聚集的文化社区和视频平台</del>里面有一些编程视频
+    - title: OI-Wiki
+      logo: /assets/images/logos/oi-wiki.png
+      url: https://oi-wiki.org/
+      description: 一个免费开放且持续更新的编程竞赛知识整合站点
+    - title: OIER博客
+      logo: /assets/images/logos/oiwe-blog.png
+      url: http://www.oier.cc/
+      description: 专注于信息学奥林匹克竞赛
+    - title: labuladong 的算法小抄
+      logo: /assets/images/logos/labuladong.jpg
+      url: https://github.com/labuladong/fucking-algorithm
+      description: 刷算法全靠套路，认准 labuladong 就够了！
 # - name: 灵感采集
 #   icon: linecons-lightbulb
 #   sub: 
