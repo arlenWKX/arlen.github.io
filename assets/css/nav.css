@@ -35,14 +35,8 @@
 .xe-comment p {
     margin-bottom: 0px;
 }
-.overflowClip_1 {
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-}
+
 .overflowClip_2 {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
 
