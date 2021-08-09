@@ -58,15 +58,32 @@
       url: https://oi-wiki.org/
       description: 一个免费开放且持续更新的编程竞赛知识整合站点
     - title: OIER博客
-      logo: /assets/images/logos/oiwe-blog.png
+      logo: /assets/images/logos/oier-blog.png
       url: http://www.oier.cc/
       description: 专注于信息学奥林匹克竞赛
     - title: labuladong 的算法小抄
       logo: /assets/images/logos/labuladong.jpg
       url: https://github.com/labuladong/fucking-algorithm
       description: 刷算法全靠套路，认准 labuladong 就够了！
-# - name: 灵感采集
-#   icon: linecons-lightbulb
+- name: 开源 & 仓库
+  icon: linecons-lightbulb
+  links: 
+    - title: 码云
+      logo: /assets/images/logos/gitee.png
+      url: https://gitee.com/
+      description: 代码托管·协作开发平台
+    - title: Github
+      logo: /assets/images/logos/github.png
+      url: https://github.com/
+      description: Where the world builds software
+    - title: FastGit
+      logo: /assets/images/logos/fastgit.png
+      url: https://fastgit.org/
+      description: Github加速（最近翻车严重）
+    - title: 开源中国
+      logo: /assets/images/logos/oschina.png
+      url: http://www.oschina.net/
+      description: 开源技术社区
 #   sub: 
 #     - name: 发现产品
 #       links:
