@@ -22,7 +22,7 @@ title: Webstack - OIer导航
 keywords: Oier,ACMer,导航,webstack,
 description: WebStack - 收集国内外优秀OJ、学习资源、交流论坛、代码模板，定时更新。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arlenwkx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oier-start.arlenwkx.ml/" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: arlenWKX@foxmail.com
 
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: arlenWKX/arlenWKX.github.io
+  repo: arlenWKX/oier-start
 
 # Exclude from processing.
 # The following items will not be processed, by default.
