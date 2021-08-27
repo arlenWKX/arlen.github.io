@@ -116,3 +116,26 @@
       logo: /assets/images/logos/oschina.png
       url: http://www.oschina.net/
       description: 开源技术社区
+- name: 在线IDE
+  icon: 
+  links:
+    - title: Codingground
+      logo: 
+      url: https://www.tutorialspoint.com/codingground.htm
+      description: 免费在线IDE&终端
+    - title: IDEOne
+      logo: 
+      url: https://ideone.com/languages
+      description: 在线编译器和IDE
+    - title: Github
+      logo: 
+      url: https://github.dev/
+      description: Github 在线编辑器(VSCode)
+    - title: Code Studio
+      logo: 免费云端Coding平台(VSCode)
+      url: https://cloudstudio.net/
+      description: 
+    - title: 学而思网校在线IDE
+      logo: 
+      url: https://code.xueersi.com/
+      description: 呃呃呃
